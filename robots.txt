@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://sheeghaiga.spedhub.org/sitemap.xml
